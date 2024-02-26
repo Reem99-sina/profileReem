@@ -1,0 +1,33 @@
+.protifolio__container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 2.5rem;
+}
+.protifolio__item{
+    background-color: var(--color-bg-variant);
+    border: 1px solid transparent;
+    border-radius: 2rem;
+    padding: 2rem;
+    transition: var(--transition);
+}
+.protifolio__item:hover{
+    background-color: transparent;
+    border-color: var(--color-bg-variant);
+    cursor: pointer;
+}
+.protifolio__item-cta{
+    display: flex;
+    gap: 1rem;
+}
+@media screen and (max-width:1024px){
+    .protifolio__container{
+        grid-template-columns: 1fr 1fr;
+        gap: 1.2rem;
+    }
+}
+@media screen and (max-width:600px){
+    .protifolio__container{
+        grid-template-columns: 1fr ;
+        gap: 1rem;
+    }
+}
