@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/profileReem/static/css/main.ed61278b.css",
-    "main.js": "/profileReem/static/js/main.cb416440.js",
-    "static/media/thumb-2.jpg": "/profileReem/static/media/thumb-2.ea9e94f1aaf28c35190e.jpg",
-    "static/media/api.pdf": "/profileReem/static/media/api.64053f82ce102557bb4c.pdf",
-    "static/media/movies.jpg": "/profileReem/static/media/movies.fcebe3e29ecfd576f06c.jpg",
-    "static/media/2.jpg": "/profileReem/static/media/2.8f121dcfdedadde38c32.jpg",
-    "static/media/Reem-Ebrahim-Desouky-CV.pdf": "/profileReem/static/media/Reem-Ebrahim-Desouky-CV.7c0d2b4b4f9783bd899b.pdf",
-    "static/media/portfolio2.jpg": "/profileReem/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/profileReem/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/reem3.png": "/profileReem/static/media/reem3.71a8f376034c8c5e479b.png",
-    "static/media/portfolio3.jpg": "/profileReem/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "index.html": "/profileReem/index.html",
-    "main.ed61278b.css.map": "/profileReem/static/css/main.ed61278b.css.map",
-    "main.cb416440.js.map": "/profileReem/static/js/main.cb416440.js.map"
+    "main.css": "/static/css/main.ed61278b.css",
+    "main.js": "/static/js/main.59b5167e.js",
+    "static/media/thumb-2.jpg": "/static/media/thumb-2.ea9e94f1aaf28c35190e.jpg",
+    "static/media/api.pdf": "/static/media/api.64053f82ce102557bb4c.pdf",
+    "static/media/movies.jpg": "/static/media/movies.fcebe3e29ecfd576f06c.jpg",
+    "static/media/Reem-Ebrahim-DesoukyCV.pdf": "/static/media/Reem-Ebrahim-DesoukyCV.f9f42b138a9485f18872.pdf",
+    "static/media/2.jpg": "/static/media/2.8f121dcfdedadde38c32.jpg",
+    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/admin.png": "/static/media/admin.039a3c394180fe48af67.png",
+    "static/media/reem3.png": "/static/media/reem3.71a8f376034c8c5e479b.png",
+    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/site.png": "/static/media/site.7f5be6a2c6311370dcfc.png",
+    "index.html": "/index.html",
+    "main.ed61278b.css.map": "/static/css/main.ed61278b.css.map",
+    "main.59b5167e.js.map": "/static/js/main.59b5167e.js.map"
   },
   "entrypoints": [
     "static/css/main.ed61278b.css",
-    "static/js/main.cb416440.js"
+    "static/js/main.59b5167e.js"
   ]
 }
