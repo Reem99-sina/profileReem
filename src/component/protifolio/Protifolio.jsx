@@ -86,7 +86,7 @@ export default class Protifolio extends Component {
                         <h3>website store</h3>
                         <div className='protifolio__item-cta'>
                             <div className='protifolio__item-cta'><a href='https://github.com/Reem99-sina/ecommerce-store' className='btn' target='blank'>github</a>
-                            <a href='https://ecommerce-store-14myizb41-reem99-sina.vercel.app/' className='btn' target='blank'>live demo</a>
+                            <a href='https://ecommerce-store-topaz-two.vercel.app/' className='btn' target='blank'>live demo</a>
                         </div>
                         </div>
                     </article>
