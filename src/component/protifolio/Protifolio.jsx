@@ -45,7 +45,7 @@ export default class Protifolio extends Component {
                         </div>
                         <h3>example of backend project </h3>
                         <div className='protifolio__item-cta'><a href='https://github.com/Reem99-sina/exam.git' className='btn' target='blank'>github</a>
-                            <a href='https://olex99.herokuapp.com/' className='btn' target='blank'>live demo</a>
+                            {/* <a href='https://olex99.herokuapp.com/' className='btn' target='blank'>live demo</a> */}
                         </div>
                         <div className='protifolio__item-cta'><a href={filePdf} className='btn' target='blank'>document pdf</a>
                         </div>
