@@ -10,6 +10,7 @@ import img8 from '../../assets/site.png'
 import img5 from '../../assets/2.jpg'
 import img6 from '../../assets/portfolio6.jpg'
 import img9 from '../../assets/messenger.jpg'
+import img10 from '../../assets/babyshop.png'
 
 import filePdf from '../../files/api.pdf'
 export default class Protifolio extends Component {
@@ -97,6 +98,15 @@ export default class Protifolio extends Component {
                         <h3>messager project</h3>
                         <div className='protifolio__item-cta'><a href='https://github.com' className='btn' target='blank'>github</a>
                             <a href='https://messager-ex4kvi2as-reem99-sina.vercel.app/' className='btn' target='blank'>live demo</a>
+                        </div>
+                    </article> 
+                    <article className='protifolio__item'>
+                        <div className="protifolio__item-image">
+                            <img src={img10} alt="" />
+                        </div>
+                        <h3>baby shop</h3>
+                        <div className='protifolio__item-cta'><a href='https://github.com' className='btn' target='blank'>github</a>
+                            <a href='https://baby-shop-ten.vercel.app/' className='btn' target='blank'>live demo</a>
                         </div>
                     </article> 
                 </div>
