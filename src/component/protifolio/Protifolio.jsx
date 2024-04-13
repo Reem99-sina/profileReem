@@ -19,7 +19,7 @@ export default class Protifolio extends Component {
             <section id='protifolio'>
                 <h5>my recent work</h5>
                 
-                <div className=" protifolio__container">
+                <div className="protifolio__container">
                     <article className='protifolio__item'>
                         <div className="protifolio__item-image">
                             <img src={img1} alt="" />

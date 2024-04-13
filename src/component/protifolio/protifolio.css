@@ -31,3 +31,6 @@
         gap: 1rem;
     }
 }
+.protifolio__item-image img{
+    height: 200px;
+}
