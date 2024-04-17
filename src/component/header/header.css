@@ -68,4 +68,5 @@ header {
 .header__container img {
     display: initial;
     width: initial;
+    height: 100%;
 }
