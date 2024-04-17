@@ -13,7 +13,7 @@ const Serivers = () => {
     return (
         <section id='serivers'>
             
-            <h2>services</h2>
+            <h2 style={{textTransform:"capitalize"}}>services</h2>
             <div className='container'>
                 <div class="flex flex-50-gt-sm waypoint bars-wrap animated slide-in-right" data-animation="slide-in-right">
                     <div class="bar my-3 flex">

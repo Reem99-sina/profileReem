@@ -17,7 +17,7 @@ export default class Protifolio extends Component {
     render() {
         return (
             <section id='protifolio'>
-                <h5>my recent work</h5>
+                <h5 style={{textTransform:"capitalize"}}>my recent work</h5>
                 
                 <div className="protifolio__container">
                     <article className='protifolio__item'>

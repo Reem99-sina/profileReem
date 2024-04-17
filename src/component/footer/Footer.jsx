@@ -6,9 +6,7 @@ import { AiFillInstagram, AiFillTwitterCircle } from 'react-icons/ai'
 const Footer = () => {
     return (
         <footer>
-            <a href='#' className='footer__logo'>
-                egator
-            </a>
+          
             <ul className='permalinks'>
                 <li>
                     <a href='#'>home</a>

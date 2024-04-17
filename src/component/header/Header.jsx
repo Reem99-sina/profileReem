@@ -1,14 +1,14 @@
 import React from 'react'
 import CTA from './CTA'
-import me from '../../assets/reem3.png'
+import me from '../../assets/reem.jpg'
 import './header.css'
 import HeaderSocial from './HeaderSocial'
 const Header = () => {
     return (
         <header>
             <div className="container header__container">
-                <h5>hello i am</h5>
-                <h2>reem ebrahim desouky</h2>
+                <h5>Hello i am</h5>
+                <h2>Reem ebrahim desouky</h2>
                 <h5 className='text-light'>full stack developer</h5>
                 <img src={me} />
                 <CTA />

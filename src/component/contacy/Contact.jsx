@@ -21,8 +21,8 @@ const Contact = () => {
 
   return (
     <section id='contact'>
-      <h5>get in touch</h5>
-      <h2>contact me</h2>
+      <h5 style={{textTransform:"capitalize"}}>get in touch</h5>
+      <h2 style={{textTransform:"capitalize"}}>contact me</h2>
       <div className="contact__container">
         <div className="contact__options">
           <article className='contact__option'>

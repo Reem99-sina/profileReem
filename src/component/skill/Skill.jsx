@@ -4,8 +4,8 @@ import { BsPatchCheckFill } from 'react-icons/bs'
 const Skill = () => {
     return (
         <section id='skill'>
-            <h5>what skills i have</h5>
-            <h2>my skill</h2>
+            <h5 style={{textTransform:"capitalize"}}>what skills i have</h5>
+            <h2 style={{textTransform:"capitalize"}}>my skill</h2>
             <div className="container experience__container">
                 <div className="experience__frontend">
                     <h3>frontend developer</h3>
