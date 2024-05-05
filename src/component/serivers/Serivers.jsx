@@ -43,6 +43,12 @@ const Serivers = () => {
                         <span>70</span>
                     </div>
                     <div class="bar my-3 flex">
+                        <div class="bar fill " data-width='70%'>
+                            <div class="tag bold flex">React Native</div>
+                        </div>
+                        <span>70</span>
+                    </div>
+                    <div class="bar my-3 flex">
                         <div class="bar fill " data-width='90%'>
                             <div class="tag bold flex">JavaScript</div>
                         </div>
@@ -73,26 +79,11 @@ const Serivers = () => {
                     </div>
                     <span>70</span>
                 </div>
-
-                <div class="bar  my-3 flex">
-                    <div class="bar fill " data-width='60%'>
-                        <div class="tag bold flex">adobe Xd</div>
-                    </div>
-                    <span>60</span>
-                </div>
-
-                <div class="bar my-3 flex">
-                    <div class="bar fill " data-width='60%'>
-                        <div class="tag bold flex">Photoshop</div>
-                    </div>
-                    <span>60</span>
-                </div>
-
                 <div class="bar my-3 flex">
                     <div class="bar fill " data-width='60%'>
                         <div class="tag bold flex">socket.io</div>
                     </div>
-                    <span>60</span>
+                    <span>70</span>
                 </div>
                 <div class="bar my-3 flex">
                     <div class="bar fill " data-width='50%'>

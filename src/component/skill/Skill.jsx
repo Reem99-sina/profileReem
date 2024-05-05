@@ -54,6 +54,12 @@ const Skill = () => {
                             <article className="experience__details">
                             <BsPatchCheckFill className='experience__icon' />
                             <div>
+                                <h4>React Native</h4>
+                                <small className='text-light'>medium</small>
+                            </div>                       </article>
+                            <article className="experience__details">
+                            <BsPatchCheckFill className='experience__icon' />
+                            <div>
                                 <h4>material ui</h4>
                                 <small className='text-light'>Experiece</small>
                             </div>                       </article>
@@ -63,6 +69,7 @@ const Skill = () => {
                                 <h4>tailwind</h4>
                                 <small className='text-light'>medium</small>
                             </div>                       </article>
+                          
                     </div>
                 </div>
                 <div className="experience__backend">
