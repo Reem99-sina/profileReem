@@ -12,7 +12,7 @@ import img6 from '../../assets/portfolio6.jpg'
 import img9 from '../../assets/messenger.jpg'
 import img10 from '../../assets/babyshop.png'
 import img11 from '../../assets/coffeeshop.jpg'
-
+import uber from "../../assets/uberApp.jpg"
 import filePdf from '../../files/api.pdf'
 export default class Protifolio extends Component {
     render() {
@@ -117,6 +117,17 @@ export default class Protifolio extends Component {
                         <h3>coffee shop with react native</h3>
                         <div className='protifolio__item-cta'>
                             <a href='https://github.com/Reem99-sina/coffeeshop' className='btn' target='blank'>
+                                github
+                            </a>
+                        </div>
+                    </article>
+                    <article className='protifolio__item'>
+                        <div className="protifolio__item-image">
+                            <img src={uber} alt="" />
+                        </div>
+                        <h3>Uber with react native and node js</h3>
+                        <div className='protifolio__item-cta'>
+                            <a href='https://github.com/Reem99-sina/uberFront.git' className='btn' target='blank'>
                                 github
                             </a>
                         </div>
