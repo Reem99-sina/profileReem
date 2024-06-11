@@ -12,6 +12,7 @@ import img9 from "../../assets/messenger.jpg";
 import img10 from "../../assets/babyshop.png";
 import img11 from "../../assets/coffeeshop.jpg";
 import uber from "../../assets/uberApp.jpg";
+import tiktok from "../../assets/tiktok.jpg"
 import filePdf from "../../files/api.pdf";
 import Profile from "../common/profile";
 export default class Protifolio extends Component {
@@ -86,7 +87,7 @@ export default class Protifolio extends Component {
           <Profile url={img5}>
             <h3>amazon react project</h3>
             <div className="protifolio__item-cta">
-              <a href="https://github.com" className="btn" target="blank">
+              <a href="https://github.com/Reem99-sina/amazonheroku" className="btn" target="blank">
                 github
               </a>
               <a
@@ -143,7 +144,7 @@ export default class Protifolio extends Component {
         <Profile url={img9}>
             <h3>messager project with next js</h3>
             <div className="protifolio__item-cta">
-              <a href="https://github.com" className="btn" target="blank">
+              <a href="https://github.com/Reem99-sina/messager" className="btn" target="blank">
                 github
               </a>
               <a
@@ -158,7 +159,7 @@ export default class Protifolio extends Component {
           <Profile url={img10}>
             <h3>baby shop with next js</h3>
             <div className="protifolio__item-cta">
-              <a href="https://github.com" className="btn" target="blank">
+              <a href="https://github.com/Reem99-sina/baby-shop" className="btn" target="blank">
                 github
               </a>
               <a
@@ -187,6 +188,18 @@ export default class Protifolio extends Component {
             <div className="protifolio__item-cta">
               <a
                 href="https://github.com/Reem99-sina/uberFront.git"
+                className="btn"
+                target="blank"
+              >
+                github
+              </a>
+            </div>
+          </Profile>
+          <Profile url={tiktok}>
+            <h3>tiktok with react native and supabase</h3>
+            <div className="protifolio__item-cta">
+              <a
+                href="https://github.com/Reem99-sina/tiktok"
                 className="btn"
                 target="blank"
               >
