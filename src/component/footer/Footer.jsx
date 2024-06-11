@@ -29,7 +29,7 @@ const Footer = () => {
             </ul>
             <div className='footer__socials'>
                 <a href='https://facebook.com'><GrFacebook /></a>
-                <a href='https://instagram.com'><AiFillInstagram /></a>
+                <a href='https://instagram.comhttps://www.instagram.com/reem_ebrahim_99?igsh=MXh6cW42NnRqcDl3Mw%3D%3D&utm_source=qr'><AiFillInstagram /></a>
                 <a href='https://twitter.com'><AiFillTwitterCircle /></a>
 
             </div>
